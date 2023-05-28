@@ -27,5 +27,7 @@ To assess the robustness of our trained model's predictions, we further employed
 ## Sections Contained in this Repo
 
 **Data**: contains the raw data obtained from Kaggle
+
 **Python Script**: contains all relevant Python code used in this project
+
 **Output**: contains the pdf version of the report and the presentation slides
