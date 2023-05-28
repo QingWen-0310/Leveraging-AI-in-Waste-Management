@@ -17,3 +17,15 @@ In recent years, machine learning models, such as Convolutional Neural Networks 
 ## Goal of the Project
 
 As our initial endeavor in our commitment to environmental preservation and the enhancement of the garbage collection and classification process, our project's primary objective is to employ various iterations of convolutional neural network (CNN) models for waste classification. By developing this algorithm, we aim to establish a solid foundation upon which we can subsequently embark on a broader and more comprehensive project, exploring its practical applications and implications.
+
+## Data
+
+Our project utilized two distinct datasets, serving as the _primary_ and _supplementary_ sources of data, respectively. The primary dataset, known as _TrashNet_ or _Garbage Classification Data_, was acquired from \href{https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification}{Kaggle}. It consists of approximately 2500 images that were employed for training our models. We selected this dataset based on its widespread usage in prior studies on garbage classification. Consequently, it serves as a benchmark against which we can evaluate our results.
+
+To assess the robustness of our trained model's predictions, we further employed a supplementary dataset obtained also from \href{https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification}{Kaggle}. This additional dataset was utilized to conduct rigorous testing and validation of our model's performance. For comprehensive details regarding the datasets, including specific information and insights, please refer to the report provided within this repository.
+
+## Sections Contained in this Repo
+
+**Data**: contains the raw data obtained from Kaggle
+**Python Script**: contains all relevant Python code used in this project
+**Output**: contains the pdf version of the report and the presentation slides
